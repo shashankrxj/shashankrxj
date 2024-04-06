@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WebRTC, Socket.io, ML models**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **shashankrxj@gmail.com**
 
