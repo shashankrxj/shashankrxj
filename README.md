@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML models**
 
-- 💬 Ask me about **HTML/CSS • Bootstrap • MERN
+- 💬 Ask me about **• HTML/CSS • Bootstrap • MERN
  Stack • WebRTC • Socket.io**
 
 - 📫 How to reach me **shashankrxj@gmail.com**
