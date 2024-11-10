@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 💬 Ask me about **• HTML/CSS • Bootstrap • MERN
+- 💬 Ask me about **• MERN
  Stack • WebRTC • Socket.io • AI/ML**
 
 - 📫 How to reach me **shashankrxj@gmail.com**
