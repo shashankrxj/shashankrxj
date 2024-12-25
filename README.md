@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankrxj&label=Profile%20views&color=0e75b6&style=flat" alt="shashankrxj" /> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Deep Learning** and **Cybersecurity**
 
 - 💬 Ask me about **• MERN
  Stack • WebRTC • Socket.io • AI/ML**
